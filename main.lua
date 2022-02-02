@@ -1,7 +1,4 @@
 
-    rconsoleprint("checking whitelist");
-    rconsoleprint("check it");
-    rconsoleprint("...");
     wait();
     wait();
     wait();
