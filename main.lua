@@ -1,4 +1,4 @@
-function main()
+
     rconsoleprint("checking whitelist");
     rconsoleprint("check it");
     rconsoleprint("...");
@@ -2594,5 +2594,3 @@ function main()
 
 
     return true;
-end;
-main();
