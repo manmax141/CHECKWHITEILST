@@ -2595,3 +2595,4 @@ function main()
 
     return true;
 end;
+main();
